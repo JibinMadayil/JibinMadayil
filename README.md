@@ -32,13 +32,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -49,13 +49,13 @@
 <br>
 
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@
 <br>
 
 <p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
@@ -74,6 +74,7 @@
   </a>
   <!-- Add the next four icons with similar styling -->
 </p>
+
 
 
 
