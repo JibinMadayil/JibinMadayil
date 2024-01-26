@@ -26,13 +26,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jibinmadayil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibinmadayil" height="30" width="40" /></a>
-<a href="https://medium.com/@jibinmadayil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jibinmadayil" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -46,3 +40,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibinmadayil&show_icons=true&locale=en" alt="jibinmadayil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibinmadayil&" alt="jibinmadayil" /></p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jibinmadayil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibinmadayil" height="30" width="40" /></a>
+<a href="https://medium.com/@jibinmadayil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jibinmadayil" height="30" width="40" /></a>
+</p>
