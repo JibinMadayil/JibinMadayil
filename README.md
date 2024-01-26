@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
 <h3 align="center">A passionate Data Analyst based in Toronto, Canada</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100vh;">
-    <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif" style="max-width: 100%; max-height: 100%;">
+<div align="center">
+  <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif" width="80%">
 </div>
 
 
