@@ -1,4 +1,4 @@
-<img align ="center" alt="Data Analyst" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
+<img align ="center" alt="Data Analyst" width="1600" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 
 
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
