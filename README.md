@@ -31,32 +31,50 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/><br>
-    Git
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50"/><br>
-    Hadoop
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/><br>
-    MongoDB
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/><br>
-    MS SQL Server
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50"/><br>
-    Power BI
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="50" height="50"/><br>
-    Tableau
-  </a>
-</p>
+<div align="left" style="text-align: center;">
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/><br>
+      Git
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50"/><br>
+      Hadoop
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/><br>
+      MongoDB
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/><br>
+      MS SQL Server
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50"/><br>
+      Power BI
+    </a>
+  </div>
+  
+  <div style="display: inline-block;">
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="50" height="50"/><br>
+      Tableau
+    </a>
+  </div>
+</div>
+
 
 <!-- Repeat similar patterns for the other rows -->
 
