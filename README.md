@@ -72,8 +72,8 @@
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50" style="margin-right: 15px;" />
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="50" height="50" style="margin-right: 15px;" />
-    </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="50" height="50" style="margin-right: 15px;" />
+</a>
   </p>
 <!-- Repeat similar patterns for the other rows -->
 
