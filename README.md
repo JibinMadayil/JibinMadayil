@@ -19,16 +19,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
 
----
-<!-- GitHub README.md -->
-
-### Github Tropies
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jibinmadayil&no-bg=true&column=8&margin-w=15&margin-h=15&no-frame=true&theme=gruvbox" alt="jibinmadayil" />
-  </a>
-</p>
-
 
 ---
 <!-- GitHub README.md -->
