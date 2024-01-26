@@ -6,10 +6,6 @@
     <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibinmadayil" alt="jibinmadayil" /></a> </p>
-
 - 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JibinMadayil](https://github.com/JibinMadayil)
@@ -19,6 +15,11 @@
 - 📫 How to reach me **jibinmadayil@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibinmadayil" alt="jibinmadayil" /></a> </p>
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
