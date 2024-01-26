@@ -19,6 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
 
+[![Jibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibinmadayil)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <!-- GitHub README.md -->
