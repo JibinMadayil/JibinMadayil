@@ -1,10 +1,10 @@
-<div style="display: flex; justify-content: center;">
-    <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif">
-</div>
 
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
 <h3 align="center">A passionate Data Analyst based in Toronto, Canada</h3>
 
+<div style="display: flex; justify-content: center;">
+    <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
 
