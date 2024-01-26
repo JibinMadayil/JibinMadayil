@@ -7,7 +7,6 @@
 </div>
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
 
 
 - 👀 I’m interested in working in the field of Big Data, Data Science/Analytics and Machine learning.
@@ -30,6 +29,8 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinmadayil&theme=transparent" alt="jibinmadayil's GitHub Streak Stats" />
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
 
 
 
