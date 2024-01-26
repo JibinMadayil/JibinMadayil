@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jibinmadayil@gmail.com**, [Linkedin - Jibinmadayil](https://www.linkedin.com/in/jibinmadayil/)
 
-- 📄 Know about my experiences [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
+- 📄 Resume [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
 <br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jibinmadayil&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jibinmadayil's Top Languages" />
