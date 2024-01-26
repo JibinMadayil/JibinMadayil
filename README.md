@@ -23,9 +23,13 @@
 
 
 ---
+<!-- GitHub README.md -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=jibinmadayil&repo=JibinMadayil)
 
 
 ---
