@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-    <img alt="Data Analyst" width="1600" height="400" src="https://www.exisglobal.com/wp-content/uploads/2024/01/Data.png">
+    <img alt="Data Analyst" src="https://www.exisglobal.com/wp-content/uploads/2024/01/Data.png">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
