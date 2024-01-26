@@ -53,25 +53,11 @@
 <h3 align="left">Languages and Tools:</h3>
  <!-- GitHub README.md -->
 
-
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="100" height="100"> |
-|---|---|---|
-| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="Microsoft SQL Server" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" title="OpenCV" width="100" height="100"> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="100" height="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit-Learn" width="100" height="100"> |
-| <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" title="Microsoft Power BI" width="100" height="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" title="Tableau" width="100" height="100"> |
-
-
-
-
-
-
-<!-- Repeat similar patterns for the other rows -->
-
-
-
-
-
-
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="AWS" width="100" height="100"> |
+|---|---|---|---|
+| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="Microsoft SQL Server" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="100" height="100"> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit_learn" title="Scikit-Learn" width="100" height="100"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="100" height="100"> | <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" title="NumPy" width="100" height="100"> | <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" title="Matplotlib" width="100" height="100"> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="100" height="100"> |
+| <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" title="Microsoft Power BI" width="100" height="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" title="Tableau" width="100" height="100"> |
 
 ---
 
