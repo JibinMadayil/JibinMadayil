@@ -31,7 +31,20 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<style>
+  .icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px; /* Adjust the margin as needed */
+  }
+
+  .icon-container a {
+    margin-right: 15px; /* Adjust the margin as needed */
+  }
+</style>
+
+<p class="icon-container">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
@@ -46,7 +59,7 @@
   </a>
 </p>
 
-<p align="left">
+<p class="icon-container">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
@@ -61,7 +74,7 @@
   </a>
 </p>
 
-<p align="left">
+<p class="icon-container">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
   </a>
