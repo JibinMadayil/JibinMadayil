@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
 <h3 align="center">A passionate Data Analyst based in Toronto, Canada</h3>
 
+<img align ="center" alt="Data Analyst" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibinmadayil" alt="jibinmadayil" /></a> </p>
