@@ -33,7 +33,7 @@
 ---
 <!-- GitHub README.md -->
 
-### Blogs posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Decoding the Null: Navigating the Enigmatic World of Missing Values in Data](https://medium.com/@jibinmadayil/decoding-the-null-navigating-the-enigmatic-world-of-missing-values-in-data-4c745276d3b4)
