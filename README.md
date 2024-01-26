@@ -1,7 +1,6 @@
-<div style="text-align: center;">
-    <img alt="Data Analyst" width="800" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
+<div style="display: flex; justify-content: center;">
+    <img alt="Data Analyst" width="1600" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
 <h3 align="center">A passionate Data Analyst based in Toronto, Canada</h3>
