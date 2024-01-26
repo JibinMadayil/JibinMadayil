@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img alt="Data Analyst" width="600" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
+    <img alt="Data Analyst" width="800" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 </div>
 
 
