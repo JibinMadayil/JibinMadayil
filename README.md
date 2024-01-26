@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-    <img alt="Data Analyst" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGomathiRajendran&psig=AOvVaw3Qjr4fij5KGruBYOOlvINS&ust=1706381102714000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDrlJHb-4MDFQAAAAAdAAAAABAD">
+    <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jibin Madayil John</h1>
