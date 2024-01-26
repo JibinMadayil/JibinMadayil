@@ -9,9 +9,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jibinmadayil&label=Profile%20views&color=0e75b6&style=flat" alt="jibinmadayil" /> </p>
 
-- 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JibinMadayil](https://github.com/JibinMadayil)
+- 👀 I’m interested in working in the field of Big Data, Data Science/Analytics and Machine learning.
 
 - 📝 I regularly write articles on [https://medium.com/@jibinmadayil](https://medium.com/@jibinmadayil)
 
