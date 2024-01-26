@@ -15,11 +15,25 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jibinmadayil](https://medium.com/@jibinmadayil)
 
-- 📫 How to reach me **jibinmadayil@gmail.com**
+- 📫 How to reach me **jibinmadayil@gmail.com**, [Linkedin - Jibinmadayil](https://www.linkedin.com/in/jibinmadayil/)
 
 - 📄 Know about my experiences [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
+<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jibinmadayil&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jibinmadayil's Top Languages" />
+</p>
 
-[![Jibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibinmadayil)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibinmadayil&show_icons=true&theme=transparent" alt="Jibin's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinmadayil&theme=transparent" alt="jibinmadayil's GitHub Streak Stats" />
+</p>
+
+
+
 
 ---
 <!-- GitHub README.md -->
@@ -49,6 +63,9 @@
 
 
 
+
+
+
 <!-- Repeat similar patterns for the other rows -->
 
 
@@ -59,16 +76,10 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibinmadayil&show_icons=true&locale=en&layout=compact" alt="jibinmadayil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibinmadayil&show_icons=true&locale=en" alt="jibinmadayil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibinmadayil&" alt="jibinmadayil" /></p>
-
----
 
 <h3 >Open for Collaberation 
-  <br>Connect with me:</h3>
+ <br>
+ <br>Connect with me:</h3>
 
 <p>
 <a href="https://linkedin.com/in/jibinmadayil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibinmadayil" height="30" width="40" /></a>
