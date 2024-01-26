@@ -36,8 +36,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- ![Decoding the Null](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Kj8uRc2twYhrNy8AckE9WA.png)
-  [Decoding the Null: Navigating the Enigmatic World of Missing Values in Data](https://medium.com/@jibinmadayil/decoding-the-null-navigating-the-enigmatic-world-of-missing-values-in-data-4c745276d3b4)
+- [Decoding the Null: Navigating the Enigmatic World of Missing Values in Data](https://medium.com/@jibinmadayil/decoding-the-null-navigating-the-enigmatic-world-of-missing-values-in-data-4c745276d3b4)
 <!-- BLOG-POST-LIST:END -->
 
 
