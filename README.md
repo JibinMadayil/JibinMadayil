@@ -64,6 +64,7 @@
 
 <h3 >Open for Collaberation 
  <br>
+  Join the Innovation Journey! Ready to turn ideas into impactful projects? Thrive on collaborative teamwork and believe in merging diverse ideas for sustainable solutions? Let's talk! 
  <br>Connect with me:</h3>
 
 <p>
