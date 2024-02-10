@@ -42,6 +42,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Decoding the Null: Navigating the Enigmatic World of Missing Values in Data](https://medium.com/@jibinmadayil/decoding-the-null-navigating-the-enigmatic-world-of-missing-values-in-data-4c745276d3b4)
+- [Unlocking Insights: The Art and Science of Data Visualization](https://medium.com/@jibinmadayil/unlocking-insights-the-art-and-science-of-data-visualization-572db750f886)
 <!-- BLOG-POST-LIST:END -->
 
 
