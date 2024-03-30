@@ -44,6 +44,7 @@
 - [Decoding the Null: Navigating the Enigmatic World of Missing Values in Data](https://medium.com/@jibinmadayil/decoding-the-null-navigating-the-enigmatic-world-of-missing-values-in-data-4c745276d3b4)
 - [Unlocking Insights: The Art and Science of Data Visualization](https://medium.com/@jibinmadayil/unlocking-insights-the-art-and-science-of-data-visualization-572db750f886)
 - [Unveiling the Unsung Hero: The Significance of Data Cleaning](https://medium.com/@jibinmadayil/unveiling-the-unsung-hero-the-significance-of-data-cleaning-4ea9a05d8d2e)
+- [Deciphering Data Storage Solutions: Database, Data Warehouse, and Data Lake Demystified](https://medium.com/@jibinmadayil/deciphering-data-storage-solutions-database-data-warehouse-and-data-lake-demystified-5174d1c6b28a?sk=86e8203f07e40213abc42d70c70634b9)
 <!-- BLOG-POST-LIST:END -->
 
 
